@@ -44,7 +44,8 @@
 ### 🗣️ Dialogue: これから お世話に なります (Pleasure working with you)
 
 <audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
-  <source src="../audio/lesson-02-kaiwa.mp3" type="audio/mpeg">
+  <source src="/minna-no-nihongo/audio/lesson-02-kaiwa.mp3" type="audio/mpeg">
+  <source src="../../audio/lesson-02-kaiwa.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -98,7 +99,8 @@
 ### 🎵 Official Minna no Nihongo CD Audio Player (聴解 Official Track 1)
 
 <audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
-  <source src="../audio/lesson-02-track-01.mp3" type="audio/mpeg">
+  <source src="/minna-no-nihongo/audio/lesson-02-track-01.mp3" type="audio/mpeg">
+  <source src="../../audio/lesson-02-track-01.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 

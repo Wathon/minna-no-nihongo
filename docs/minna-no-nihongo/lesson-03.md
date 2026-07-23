@@ -17,46 +17,47 @@
 
 > 🔗 **Related Vocabulary Hubs**: [[vocabulary/places]], [[vocabulary/katakana]], [[vocabulary/kaiwa-expressions]]
 
-| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes & Links |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ここ | ここ | koko | ဒီမှာ | here (near speaker) | [[vocabulary/demonstratives]] |
-| そこ | そこ | soko | အဲဒီမှာ | there (near listener) | [[vocabulary/demonstratives]] |
-| あそこ | あそこ | asoko | ဟိုမှာ | over there | [[vocabulary/demonstratives]] |
-| どこ | どこ | doko | ဘယ်မှာလဲ | where | [[vocabulary/demonstratives]] |
-| こちら | こちら | kochira | ဒီဘက် / ဒီနေရာ | this way / here (polite) | [[vocabulary/demonstratives]] |
-| そちら | そちら | sochira | အဲဒီဘက် / အဲဒီနေရာ | that way / there (polite) | [[vocabulary/demonstratives]] |
-| あちら | あちら | achira | ဟိုဘက် / ဟိုနေရာ | that way (polite) | [[vocabulary/demonstratives]] |
-| どちら | どちら | dochira | ဘယ်ဘက် / ဘယ်နေရာ | which way / where (polite) | [[vocabulary/demonstratives]] |
-| きょうしつ | 教室 | kyōshitsu | စာသင်ခန်း | classroom | [[vocabulary/places]] |
-| しょくどう | 食堂 | shokudō | ထမင်းစားခန်း / ကန်တင်း | dining hall / canteen | [[vocabulary/places]] |
-| じむしょ | 事務所 | jimusho | ရုံးခန်း | office | [[vocabulary/places]] |
-| かいぎしつ | 会議室 | kaigishitsu | အစည်းအဝေးခန်း | meeting room | [[vocabulary/places]] |
-| うけつけ | 受付 | uketsuke | ဧည့်ကြို | reception desk | [[vocabulary/places]] |
-| ロビー | ロビー | robī | ဧည့်ခန်းမ | lobby | [[vocabulary/katakana]] |
-| へや | 部屋 | heya | အခန်း | room | [[vocabulary/places]] |
-| トイレ / おてあらい | トイレ / お手洗い | toire / otearai | အိမ်သာ / သန့်စင်ခန်း | restroom / toilet | [[vocabulary/katakana]] |
-| かいだん | 階段 | kaidan | လှေကား | stairs | |
-| エレベーター | エレベーター | erebētā | ဓာတ်လှေကား | elevator | [[vocabulary/katakana]] |
-| エスカレーター | エスカレーター | esukarētā | စက်လှေကား | escalator | [[vocabulary/katakana]] |
-| じどうはんばいき | 自動販売機 | jidōhanbaiki | အလိုအလျောက် ပစ္စည်းရောင်းစက် | vending machine | |
-| でんわ | 電話 | denwa | ဖုန်း | telephone | |
-| おくに | お国 | okuni | တိုင်းပြည် / နိုင်ငံ | country | Polite prefix お |
-| かいしゃ | 会社 | kaisha | ကုမ္ပဏီ | company | [[vocabulary/places]] |
-| うち / いえ | 家 | uchi / ie | အိမ် | house / home | [[vocabulary/places]] |
-| くつ | 靴 | kutsu | ဖိနပ် | shoes | |
-| ネクタイ | ネクタイ | nekutai | နက်ကတိုင် | necktie | [[vocabulary/katakana]] |
-| ワイン | ワイン | wain | ဝိုင် | wine | [[vocabulary/katakana]] |
-| うりば | 売りば | uriba | အရောင်းဌာန | sales counter | [[vocabulary/places]] |
-| ちか | 地下 | chika | မြေအောက်ထပ် | basement | [[vocabulary/places]] |
-| 〜かい / 〜がい | 〜階 | -kai / -gai | 〜လွှာ / 〜ထပ် | floor counter | e.g. ３階 (さんがい) |
-| 〜えん | 〜円 | -en | 〜ယန်း | yen (Japanese currency) | |
-| いくら | いくら | ikura | ဘယ်လောက်လဲ | how much (price) | |
+| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | Audio (အသံထွက်) |
+| :--- | :--- | :--- | :--- | :--- |
+| ここ | ここ | koko | ဒီမှာ | <button onclick="const u=new SpeechSynthesisUtterance('ここ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| そこ | そこ | soko | အဲဒီမှာ | <button onclick="const u=new SpeechSynthesisUtterance('そこ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| あそこ | あそこ | asoko | ဟိုမှာ | <button onclick="const u=new SpeechSynthesisUtterance('あそこ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| どこ | どこ | doko | ဘယ်မှာလဲ | <button onclick="const u=new SpeechSynthesisUtterance('どこ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| こちら | こちら | kochira | ဒီဘက် / ဒီနေရာ | <button onclick="const u=new SpeechSynthesisUtterance('こちら');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| そちら | そちら | sochira | အဲဒီဘက် / အဲဒီနေရာ | <button onclick="const u=new SpeechSynthesisUtterance('そちら');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| あちら | あちら | achira | ဟိုဘက် / ဟိုနေရာ | <button onclick="const u=new SpeechSynthesisUtterance('あちら');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| どちら | どちら | dochira | ဘယ်ဘက် / ဘယ်နေရာ | <button onclick="const u=new SpeechSynthesisUtterance('どちら');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| きょうしつ | 教室 | kyōshitsu | စာသင်ခန်း | <button onclick="const u=new SpeechSynthesisUtterance('きょうしつ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| しょくどう | 食堂 | shokudō | ထမင်းစားခန်း / ကန်တင်း | <button onclick="const u=new SpeechSynthesisUtterance('しょくどう');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| じむしょ | 事務所 | jimusho | ရုံးခန်း | <button onclick="const u=new SpeechSynthesisUtterance('じむしょ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| かいぎしつ | 会議室 | kaigishitsu | အစည်းအဝေးခန်း | <button onclick="const u=new SpeechSynthesisUtterance('かいぎしつ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| うけつけ | 受付 | uketsuke | ဧည့်ကြို | <button onclick="const u=new SpeechSynthesisUtterance('うけつけ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| ロビー | ロビー | robī | ဧည့်ခန်းမ | <button onclick="const u=new SpeechSynthesisUtterance('ロビー');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| へや | 部屋 | heya | အခန်း | <button onclick="const u=new SpeechSynthesisUtterance('へや');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| トイレ / おてあらい | トイレ / お手洗い | toire / otearai | အိမ်သာ / သန့်စင်ခန်း | <button onclick="const u=new SpeechSynthesisUtterance('おてあらい');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| エレベーター | エレベーター | erebētā | ဓာတ်လှေကား | <button onclick="const u=new SpeechSynthesisUtterance('エレベーター');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| エスカレーター | エスカレーター | esukarētā | စက်လှေကား | <button onclick="const u=new SpeechSynthesisUtterance('エスカレーター');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| じどうはんばいき | 自動販売機 | jidōhanbaiki | အလိုအလျောက် ပစ္စည်းရောင်းစက် | <button onclick="const u=new SpeechSynthesisUtterance('じどうはんばいき');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| でんわ | 電話 | denwa | ဖုန်း | <button onclick="const u=new SpeechSynthesisUtterance('でんわ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| かいしゃ | 会社 | kaisha | ကုမ္ပဏီ | <button onclick="const u=new SpeechSynthesisUtterance('かいしゃ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| うち / いえ | 家 | uchi / ie | အိမ် | <button onclick="const u=new SpeechSynthesisUtterance('うち');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| ネクタイ | ネクタイ | nekutai | နက်ကတိုင် | <button onclick="const u=new SpeechSynthesisUtterance('ネクタイ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| ワイン | ワイン | wain | ဝိုင် | <button onclick="const u=new SpeechSynthesisUtterance('ワイン');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| うりば | 売りば | uriba | အရောင်းဌာန | <button onclick="const u=new SpeechSynthesisUtterance('うりば');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| ちか | 地下 | chika | မြေအောက်ထပ် | <button onclick="const u=new SpeechSynthesisUtterance('ちか');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| いくら | いくら | ikura | ဘယ်လောက်လဲ | <button onclick="const u=new SpeechSynthesisUtterance('いくら');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
 
 ---
 
-## 💬 Conversation Study (စကားပြော - 会話)
+## 💬 Kaiwa (စကားပြော - 会話)
 
 ### 🗣️ Dialogue: これを ください (Give me this, please)
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="/minna-no-nihongo/audio/lesson-03-kaiwa.mp3" type="audio/mpeg">
+  <source src="../../audio/lesson-03-kaiwa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 **マイク・ミラー**: すみません。ワイン売り場は どこですか。  
 *(မိုက်ကယ် မီလာ: တစ်ဆိတ်လောက်။ ဝိုင်အရောင်းဌာန က ဘယ်မှာလဲ။)*
@@ -112,17 +113,33 @@
 
 2. **ひらがな**: おてあらいは どこですか。
    - **答 (ひらがな)**: あそこです。
-   - **Burmese (မြန်မာ)**: သန့်စင်ခန်းက ဘယ်မှာလဲ။ (ဟိုမှာ ပါ။)
+   - **Burmese (မြန်မာ)**: သန့်စင်ခန်းက ဘယ်မှာလဲ။ (ဟိုမှာ ပါ。)
    - **Kanji**: お手洗いは どこですか。 (あそこです。)
    - **Romaji**: Otearai wa doko desu ka. (Asoko desu.)
    - **English**: Where is the restroom? (It's over there.)
 
 3. **ひらがな**: この とけいは いくらですか。
    - **答 (ひらがな)**: ごせんえんです。
-   - **Burmese (မြန်မာ)**: ဒီနာရီက စျေးဘယ်လောက်လဲ။ (၅၀၀၀ ယန်း ပါ။)
+   - **Burmese (မြန်မာ)**: ဒီနာရီက စျေးဘယ်လောက်လဲ။ (၅၀၀၀ ယန်း ပါ。)
    - **Kanji**: この 時計は いくらですか。 (５,０００円です。)
    - **Romaji**: Kono tokei wa ikura desu ka. (Go-sen en desu.)
    - **English**: How much is this watch? (It is 5,000 yen.)
+
+---
+
+## 🎧 Listening Practice (နားထောင်ခြင်းလေ့ကျင့်ခန်း - 聴解)
+
+### 🎵 Official Minna no Nihongo CD Audio Player (聴解 Official Track 1)
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="/minna-no-nihongo/audio/lesson-03-track-01.mp3" type="audio/mpeg">
+  <source src="../../audio/lesson-03-track-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+- **Audio Script & Questions**:
+  - Q1: ここは どこですか。 (教室です。)
+  - Q2: この 時計は いくらですか。 (5,000円です。)
 
 ---
 
