@@ -5,8 +5,6 @@ site_url: https://wathon.github.io/minna-no-nihongo/
 repo_url: https://github.com/Wathon/minna-no-nihongo
 repo_name: Wathon/minna-no-nihongo
 
-docs_dir: '.' # Tell MkDocs that notes are located in the repository root directory
-
 theme:
   name: material
   palette:
@@ -50,7 +48,7 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - 🏠 Home: README.md
+  - 🏠 Home: index.md
   - 📘 Textbook Lessons:
       - Overview Matrix: minna-no-nihongo/index.md
       - Master Review & Audit: minna-no-nihongo/chapter-review.md
