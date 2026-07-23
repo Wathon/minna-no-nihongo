@@ -15,40 +15,77 @@
 
 ## 🔤 New Vocabulary (ဝေါဟာရ - 単語)
 
-| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes |
+> 🔗 **Related Vocabulary Hubs**: [[vocabulary/places]], [[vocabulary/katakana]], [[vocabulary/kaiwa-expressions]]
+
+| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes & Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ここ | ここ | koko | ဒီမှာ | here (near speaker) | |
-| そこ | そこ | soko | အဲဒီမှာ | there (near listener) | |
-| あそこ | あそこ | asoko | ဟိုမှာ | over there | |
-| どこ | どこ | doko | ဘယ်မှာလဲ | where | |
-| こちら | こちら | kochira | ဒီဘက် / ဒီနေရာ | this way / here (polite) | Polite form of ここ |
-| そちら | そちら | sochira | အဲဒီဘက် / အဲဒီနေရာ | that way / there (polite) | Polite form of そこ |
-| あちら | あちら | achira | ဟိုဘက် / ဟိုနေရာ | that way (polite) | Polite form of あれ |
-| どちら | どちら | dochira | ဘယ်ဘက် / ဘယ်နေရာ | which way / where (polite) | Polite form of どこ |
-| きょうしつ | 教室 | kyōshitsu | စာသင်ခန်း | classroom | |
-| しょくどう | 食堂 | shokudō | ထမင်းစားခန်း / ကန်တင်း | dining hall / canteen | |
-| じむしょ | 事務所 | jimusho | ရုံးခန်း | office | |
-| か会議室 | 会議室 | kaigishitsu | အစည်းအဝေးခန်း | meeting room | |
-| うけつけ | 受付 | uketsuke | ဧည့်ကြို | reception desk | |
-| ロビー | ロビー | robī | ဧည့်ခန်းမ | lobby | Katakana |
-| へや | 部屋 | heya | အခန်း | room | |
-| トイレ / おてあらい | トイレ / お手洗い | toire / otearai | အိမ်သာ / သန့်စင်ခန်း | restroom / toilet | お手洗い is polite |
+| ここ | ここ | koko | ဒီမှာ | here (near speaker) | [[vocabulary/demonstratives]] |
+| そこ | そこ | soko | အဲဒီမှာ | there (near listener) | [[vocabulary/demonstratives]] |
+| あそこ | あそこ | asoko | ဟိုမှာ | over there | [[vocabulary/demonstratives]] |
+| どこ | どこ | doko | ဘယ်မှာလဲ | where | [[vocabulary/demonstratives]] |
+| こちら | こちら | kochira | ဒီဘက် / ဒီနေရာ | this way / here (polite) | [[vocabulary/demonstratives]] |
+| そちら | そちら | sochira | အဲဒီဘက် / အဲဒီနေရာ | that way / there (polite) | [[vocabulary/demonstratives]] |
+| あちら | あちら | achira | ဟိုဘက် / ဟိုနေရာ | that way (polite) | [[vocabulary/demonstratives]] |
+| どちら | どちら | dochira | ဘယ်ဘက် / ဘယ်နေရာ | which way / where (polite) | [[vocabulary/demonstratives]] |
+| きょうしつ | 教室 | kyōshitsu | စာသင်ခန်း | classroom | [[vocabulary/places]] |
+| しょくどう | 食堂 | shokudō | ထမင်းစားခန်း / ကန်တင်း | dining hall / canteen | [[vocabulary/places]] |
+| じむしょ | 事務所 | jimusho | ရုံးခန်း | office | [[vocabulary/places]] |
+| かいぎしつ | 会議室 | kaigishitsu | အစည်းအဝေးခန်း | meeting room | [[vocabulary/places]] |
+| うけつけ | 受付 | uketsuke | ဧည့်ကြို | reception desk | [[vocabulary/places]] |
+| ロビー | ロビー | robī | ဧည့်ခန်းမ | lobby | [[vocabulary/katakana]] |
+| へや | 部屋 | heya | အခန်း | room | [[vocabulary/places]] |
+| トイレ / おてあらい | トイレ / お手洗い | toire / otearai | အိမ်သာ / သန့်စင်ခန်း | restroom / toilet | [[vocabulary/katakana]] |
 | かいだん | 階段 | kaidan | လှေကား | stairs | |
-| エレベーター | エレベーター | erebētā | ဓာတ်လှေကား | elevator | Katakana |
-| エスカレーター | エスカレーター | esukarētā | စက်လှေကား | escalator | Katakana |
+| エレベーター | エレベーター | erebētā | ဓာတ်လှေကား | elevator | [[vocabulary/katakana]] |
+| エスカレーター | エスカレーター | esukarētā | စက်လှေကား | escalator | [[vocabulary/katakana]] |
 | じどうはんばいき | 自動販売機 | jidōhanbaiki | အလိုအလျောက် ပစ္စည်းရောင်းစက် | vending machine | |
 | でんわ | 電話 | denwa | ဖုန်း | telephone | |
 | おくに | お国 | okuni | တိုင်းပြည် / နိုင်ငံ | country | Polite prefix お |
-| かいしゃ | 会社 | kaisha | ကုမ္ပဏီ | company | |
-| うち / いえ | 家 | uchi / ie | အိမ် | house / home | |
-| くつ | 靴 | kutsu | ဓါတ်ဘူး / ဖိနပ် | shoes | |
-| ネクタイ | ネクタイ | nekutai | နက်ကတိုင် | necktie | Katakana |
-| ワイン | ワイン | wain | ဝိုင် | wine | Katakana |
-| うりば | 売りば | uriba | အရောင်းဌာန | sales counter | |
-| ちか | 地下 | chika | မြေအောက်ထပ် | basement | |
+| かいしゃ | 会社 | kaisha | ကုမ္ပဏီ | company | [[vocabulary/places]] |
+| うち / いえ | 家 | uchi / ie | အိမ် | house / home | [[vocabulary/places]] |
+| くつ | 靴 | kutsu | ဖိနပ် | shoes | |
+| ネクタイ | ネクタイ | nekutai | နက်ကတိုင် | necktie | [[vocabulary/katakana]] |
+| ワイン | ワイン | wain | ဝိုင် | wine | [[vocabulary/katakana]] |
+| うりば | 売りば | uriba | အရောင်းဌာန | sales counter | [[vocabulary/places]] |
+| ちか | 地下 | chika | မြေအောက်ထပ် | basement | [[vocabulary/places]] |
 | 〜かい / 〜がい | 〜階 | -kai / -gai | 〜လွှာ / 〜ထပ် | floor counter | e.g. ３階 (さんがい) |
 | 〜えん | 〜円 | -en | 〜ယန်း | yen (Japanese currency) | |
 | いくら | いくら | ikura | ဘယ်လောက်လဲ | how much (price) | |
+
+---
+
+## 💬 Conversation Study (စကားပြော - 会話)
+
+### 🗣️ Dialogue: これを ください (Give me this, please)
+
+**マイク・ミラー**: すみません。ワイン売り場は どこですか。  
+*(မိုက်ကယ် မီလာ: တစ်ဆိတ်လောက်။ ဝိုင်အရောင်းဌာန က ဘယ်မှာလဲ။)*
+
+**店員 (てんいん)**: 地下１階で ございます。  
+*(ဆိုင်ဝန်ထမ်း: မြေအောက် ၁ လွှာမှာ ဖြစ်ပါတယ်။)*
+
+---
+
+**マイク・ミラー**: すみません。その ワインを 見せて ください。  
+*(မိုက်ကယ် မီလာ: တစ်ဆိတ်လောက်။ အဲဒီ ဝိုင်ကို ပြပေးပါ။)*
+
+**店員 (てんいん)**: はい、どうぞ。  
+*(ဆိုင်ဝန်ထမ်း: ဟုတ်ကဲ့၊ ရပါပြီ။)*
+
+**マイク・ミラー**: これは イタリアの ワインですか。  
+*(မိုက်ကယ် မီလာ: ဒါက အီတလီနိုင်ငံထုတ် ဝိုင် လား။)*
+
+**店員 (てんいん)**: いいえ、フランスの です。  
+*(ဆိုင်ဝန်ထမ်း: မဟုတ်ပါဘူး၊ ပြင်သစ်နိုင်ငံထုတ် ပါ။)*
+
+**マイク・ミラー**: いくらですか。  
+*(မိုက်ကယ် မီလာ: စျေးဘယ်လောက်လဲ။)*
+
+**店員 (てんいん)**: 2,500円です。  
+*(ဆိုင်ဝန်ထမ်း: ၂,၅၀၀ ယန်း ပါ။)*
+
+**マイク・ミラー**: じゃ、これを ください。  
+*(မိုက်ကယ် မီလာ: ဒါဆိုရင် ဒါကို ပေးပါ။)*
 
 ---
 
@@ -80,14 +117,7 @@
    - **Romaji**: Otearai wa doko desu ka. (Asoko desu.)
    - **English**: Where is the restroom? (It's over there.)
 
-3. **ひらがな**: じむしょは どちらですか。
-   - **答 (ひらがな)**: あちらです。２かいです。
-   - **Burmese (မြန်မာ)**: ရုံးခန်းက ဘယ်ဘက်မှာပါလဲ။ (ဟိုဘက်မှာ ပါ။ ၂ လွှာမှာ ပါ။)
-   - **Kanji**: 事務所は どちらですか。 (あちらです。２階です。)
-   - **Romaji**: Jimusho wa dochira desu ka. (Achira desu. Ni-kai desu.)
-   - **English**: Where is the office? (It's that way. On the 2nd floor.)
-
-4. **ひらがな**: この とけいは いくらですか。
+3. **ひらがな**: この とけいは いくらですか。
    - **答 (ひらがな)**: ごせんえんです。
    - **Burmese (မြန်မာ)**: ဒီနာရီက စျေးဘယ်လောက်လဲ။ (၅၀၀၀ ယန်း ပါ။)
    - **Kanji**: この 時計は いくらですか。 (５,０００円です。)
@@ -99,4 +129,5 @@
 ## 🔗 Cross References
 - [[vocabulary/places]]
 - [[vocabulary/demonstratives]]
-- [[minna-no-nihongo/index]]
+- [[vocabulary/katakana]]
+- [[vocabulary/kaiwa-expressions]]

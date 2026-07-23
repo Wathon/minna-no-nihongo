@@ -15,7 +15,9 @@
 
 ## 🔤 New Vocabulary (ဝေါဟာရ - 単語)
 
-| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes |
+> 🔗 **Related Vocabulary Hubs**: [[vocabulary/occupations]], [[vocabulary/katakana]], [[vocabulary/kaiwa-expressions]]
+
+| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes & Links |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | わたし | 私 | watashi | ကျွန်တော် / ကျွန်မ | I / Me | First person pronoun |
 | あなた | あなた | anata | သင် / မင်း | You | Use sparingly |
@@ -24,23 +26,35 @@
 | 〜ちゃん | 〜ちゃん | -chan | ကလေး/သူငယ်ချင်း ခေါ်ဝေါ်မှု | Suffix for children | |
 | 〜じん | 〜人 | -jin | 〜လူမျိုး | Nationality suffix | e.g. ဂျပန်လူမျိုး |
 | せんせい | 先生 | sensei | ဆရာ / ဆရာမ | Teacher / Doctor | |
-| きょうし | 教師 | kyōshi | ဆရာ/ဆရာမ (အလုပ်) | Teacher (occupation) | Used for your own job |
-| がくせい | 学生 | gakusei | ကျောင်းသား / ကျောင်းသူ | Student | |
-| かいしゃいん | 会社員 | kaishain | ကုမ္ပဏီဝန်ထမ်း | Company employee | |
+| きょうし | 教師 | kyōshi | ဆရာ/ဆရာမ (အလုပ်) | Teacher (occupation) | [[vocabulary/occupations]] |
+| がくせい | 学生 | gakusei | ကျောင်းသား / ကျောင်းသူ | Student | [[vocabulary/occupations]] |
+| かいしゃいん | 会社員 | kaishain | ကုမ္ပဏီဝန်ထမ်း | Company employee | [[vocabulary/occupations]] |
 | しゃいん | 社員 | shain | [ကုမ္ပဏီ] ဝန်ထမ်း | Employee of [Company] | e.g. IMCの しゃいん |
-| ぎんこういん | 銀行員 | ginkōin | ဘဏ်ဝန်ထမ်း | Bank employee | |
-| いしゃ | 医者 | isha | ဆရာဝန် | Medical doctor | |
-| けんきゅうしゃ | 研究者 | kenkyūsha | သုတေသနပညာရှင် | Researcher | |
-| えんじにあ | エンジニア | enjinica | အင်ဂျင်နီယာ | Engineer | Katakana loanword |
-| だいがく | 大学 | daigaku | တက္ကသိုလ် | University | |
-| びょういん | 病院 | byōin | ဆေးရုံ | Hospital | |
+| ぎんこういん | 銀行員 | ginkōin | ဘဏ်ဝန်ထမ်း | Bank employee | [[vocabulary/occupations]] |
+| いしゃ | 医者 | isha | ဆရာဝန် | Medical doctor | [[vocabulary/occupations]] |
+| けんきゅうしゃ | 研究者 | kenkyūsha | သုတေသနပညာရှင် | Researcher | [[vocabulary/occupations]] |
+| えんじにあ | エンジニア | enjinica | အင်ဂျင်နီယာ | Engineer | [[vocabulary/katakana]] |
+| だいがく | 大学 | daigaku | တက္ကသိုလ် | University | [[vocabulary/places]] |
+| びょういん | 病院 | byōin | ဆေးရုံ | Hospital | [[vocabulary/places]] |
 | だれ / どなた | 誰 / どなた | dare / donata | ဘယ်သူလဲ / ဘယ်သူပါလဲ | Who | どなた is polite |
 | 〜さい | 〜歳 | -sai | အသက် 〜 နှစ် | Years old | Age suffix |
 | なんさい / おいくつ | 何歳 / おいくつ | nansai / oikutsu | အသက် ဘယ်လောက်လဲ | How old | |
-| はい / いいえ | はい / いいえ | hai / iie | ဟုတ်ကဲ့ / မဟုတ်ပါဘူး | Yes / No | |
-| はじめまして | 初めまして | hajimemashite | တွေ့ရတာ ဝမ်းသာပါတယ် | Nice to meet you | Literal: "First time" |
-| 〜から きました | 〜から 来ました | kara kimashita | 〜က လာခဲ့တာပါ | I came from [Country] | |
-| [どうぞ] よろしく [おねがいします] | [どうぞ] よろしく [お願いします] | yoroshiku onegaishimasu | ကူညီမစပါဦး | Pleased to meet you | |
+| はい / いいえ | はい / いいえ | hai / iie | ဟုတ်ကဲ့ / မဟုတ်ပါဘူး | Yes / No | [[vocabulary/kaiwa-expressions]] |
+| はじめまして | 初めまして | hajimemashite | တွေ့ရတာ ဝမ်းသာပါတယ် | Nice to meet you | [[vocabulary/kaiwa-expressions]] |
+| 〜から きました | 〜から 来ました | kara kimashita | 〜က လာခဲ့တာပါ | I came from [Country] | [[vocabulary/kaiwa-expressions]] |
+| [どうぞ] よろしく [おねがいします] | [どうぞ] よろしく [お願いします] | yoroshiku onegaishimasu | ကူညီမစပါဦး | Pleased to meet you | [[vocabulary/kaiwa-expressions]] |
+
+---
+
+## 💬 Conversation Study (စကားပြော - 会話)
+
+### 🗣️ Dialogue: 初めまして (Nice to meet you)
+
+**マイク・ミラー**: 初めまして。マイク・ミラーです。アメリカから 来ました。どうぞ よろしく お願いします。  
+*(မိုက်ကယ် မီလာ: တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ပါ။ အမေရိက က လာခဲ့တာပါ။ ကူညီမစပါဦး။)*
+
+**佐藤 (さとう)**: 佐藤です。どうぞ よろしく。  
+*(ဆာတိုး: ဆာတိုး ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။)*
 
 ---
 

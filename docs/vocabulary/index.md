@@ -4,12 +4,21 @@ Categorized vocabulary bank organized by theme, part of speech, and topic.
 
 ---
 
+## 🗣️ Conversation & Loanwords (စကားပြော နှင့် ကာတာကာနာ မွေးစားစကားလုံးများ)
+
+| Topic Category | Description | Primary Lessons | Note Link |
+| :--- | :--- | :--- | :--- |
+| **Katakana Words** | Loanwords, Countries, Tech, Transportation | Lessons 1 to 5 | [[vocabulary/katakana]] |
+| **Kaiwa & Daily Expressions** | Greetings, Classroom phrases, Polite formulas | Lessons 1 to 25 | [[vocabulary/kaiwa-expressions]] |
+
+---
+
 ## 👥 People, Family & Occupations (လူများနှင့် အလုပ်အကိုင်များ)
 
 | Topic Category | Description | Primary Lessons | Note Link |
 | :--- | :--- | :--- | :--- |
 | **Occupations & Roles** | Teachers, Students, Employees, Doctors | Lesson 1 | [[vocabulary/occupations]] |
-| **Pronouns & Titles** | I, You, That person, ~San, ~Chan | Lesson 1 & 2 | [[vocabulary/pronouns]] |
+| **Pronouns & Titles** | I, You, That person, ~San, ~Chan | Lesson 1 & 2 | [[vocabulary/occupations]] |
 | **Family Members** | Family terms (polite vs. own family) | Lesson 18 & 20 | `[[vocabulary/family]]` |
 
 ---
@@ -20,7 +29,7 @@ Categorized vocabulary bank organized by theme, part of speech, and topic.
 | :--- | :--- | :--- | :--- |
 | **Demonstratives** | Kore, Sore, Are, Kono, Sono, Ano | Lesson 2 | [[vocabulary/demonstratives]] |
 | **Everyday Objects** | Books, Keys, Umbrellas, Bags, Watches | Lesson 2 | `[[vocabulary/daily-objects]]` |
-| **Places & Locations** | School, Hospital, Bank, University | Lesson 1 & 3 | `[[vocabulary/places]]` |
+| **Places & Locations** | School, Hospital, Bank, University | Lesson 1 & 3 | [[vocabulary/places]] |
 
 ---
 
@@ -29,8 +38,8 @@ Categorized vocabulary bank organized by theme, part of speech, and topic.
 | Topic Category | Description | Primary Lessons | Note Link |
 | :--- | :--- | :--- | :--- |
 | **Numbers & Counters** | 1-10000, People, Objects, Flat items | Lesson 1, 4, 11 | `[[vocabulary/numbers-counters]]` |
-| **Days of the Week** | Sunday to Saturday | Lesson 4 | `[[vocabulary/days-of-week]]` |
-| **Time & Hours** | Hours, Minutes, Today, Tomorrow | Lesson 4 | `[[vocabulary/time-calendar]]` |
+| **Days of the Week** | Sunday to Saturday | Lesson 4 | [[vocabulary/time-calendar]] |
+| **Time & Hours** | Hours, Minutes, Today, Tomorrow | Lesson 4 & 5 | [[vocabulary/time-calendar]] |
 
 ---
 
