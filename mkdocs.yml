@@ -8,7 +8,6 @@ repo_name: Wathon/minna-no-nihongo
 theme:
   name: material
   palette:
-    # Dark mode default palette
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -16,7 +15,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-    # Light mode palette
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -35,17 +33,14 @@ theme:
 
 plugins:
   - search
-  - roamlinks # Supports [[wiki-links]] automatically across Foam notes!
+  - roamlinks
 
 markdown_extensions:
   - attr_list
   - tables
   - admonition
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.def_fence_mermaid
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
