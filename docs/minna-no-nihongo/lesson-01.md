@@ -17,45 +17,23 @@
 
 > 🔗 **Related Vocabulary Hubs**: [[vocabulary/occupations]], [[vocabulary/katakana]], [[vocabulary/kaiwa-expressions]]
 
-| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | English Meaning | Notes & Links |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| わたし | 私 | watashi | ကျွန်တော် / ကျွန်မ | I / Me | First person pronoun |
-| あなた | あなた | anata | သင် / မင်း | You | Use sparingly |
-| あのひと / あのかた | あの人 / あの方 | ano hito / ano kata | ဟိုလူ / ဟိုလူကြီး | That person | あのかた is polite |
-| 〜さん | 〜さん | -san | ဦး / ဒေါ် / ကို / မ | Mr. / Ms. | Title after name |
-| 〜ちゃん | 〜ちゃん | -chan | ကလေး/သူငယ်ချင်း ခေါ်ဝေါ်မှု | Suffix for children | |
-| 〜じん | 〜人 | -jin | 〜လူမျိုး | Nationality suffix | e.g. ဂျပန်လူမျိုး |
-| せんせい | 先生 | sensei | ဆရာ / ဆရာမ | Teacher / Doctor | |
-| きょうし | 教師 | kyōshi | ဆရာ/ဆရာမ (အလုပ်) | Teacher (occupation) | [[vocabulary/occupations]] |
-| がくせい | 学生 | gakusei | ကျောင်းသား / ကျောင်းသူ | Student | [[vocabulary/occupations]] |
-| かいしゃいん | 会社員 | kaishain | ကုမ္ပဏီဝန်ထမ်း | Company employee | [[vocabulary/occupations]] |
-| しゃいん | 社員 | shain | [ကုမ္ပဏီ] ဝန်ထမ်း | Employee of [Company] | e.g. IMCの しゃいん |
-| ぎんこういん | 銀行員 | ginkōin | ဘဏ်ဝန်ထမ်း | Bank employee | [[vocabulary/occupations]] |
-| いしゃ | 医者 | isha | ဆရာဝန် | Medical doctor | [[vocabulary/occupations]] |
-| けんきゅうしゃ | 研究者 | kenkyūsha | သုတေသနပညာရှင် | Researcher | [[vocabulary/occupations]] |
-| えんじにあ | エンジニア | enjinica | အင်ဂျင်နီယာ | Engineer | [[vocabulary/katakana]] |
-| だいがく | 大学 | daigaku | တက္ကသိုလ် | University | [[vocabulary/places]] |
-| びょういん | 病院 | byōin | ဆေးရုံ | Hospital | [[vocabulary/places]] |
-| だれ / どなた | 誰 / どなた | dare / donata | ဘယ်သူလဲ / ဘယ်သူပါလဲ | Who | どなた is polite |
-| 〜さい | 〜歳 | -sai | အသက် 〜 နှစ် | Years old | Age suffix |
-| なんさい / おいくつ | 何歳 / おいくつ | nansai / oikutsu | အသက် ဘယ်လောက်လဲ | How old | |
-| はい / いいえ | はい / いいえ | hai / iie | ဟုတ်ကဲ့ / မဟုတ်ပါဘူး | Yes / No | [[vocabulary/kaiwa-expressions]] |
-| はじめまして | 初めまして | hajimemashite | တွေ့ရတာ ဝမ်းသာပါတယ် | Nice to meet you | [[vocabulary/kaiwa-expressions]] |
-| 〜から きました | 〜から 来ました | kara kimashita | 〜က လာခဲ့တာပါ | I came from [Country] | [[vocabulary/kaiwa-expressions]] |
-| [どうぞ] よろしく [おねがいします] | [どうぞ] よろしく [お願いします] | yoroshiku onegaishimasu | ကူညီမစပါဦး | Pleased to meet you | [[vocabulary/kaiwa-expressions]] |
-
----
-
-## 📐 Key Grammar Patterns (သဒ္ဒါ - 文法)
-
-1. **[[grammar/particle-wa|Noun1 は (わ) Noun2 です]]** — *Noun1 က Noun2 ဖြစ်ပါတယ်။*
-   - Example (ひらがな): わたしは まいく・みらーです。 (ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။)
-2. **[[grammar/particle-wa|Noun1 は (わ) Noun2 ではありません (じゃありません)]]** — *Noun1 က Noun2 မဟုတ်ပါဘူး။*
-   - Example (ひらがな): さんとすさんは がくせいではありません。 (စန်းတိုးဆုက ကျောင်းသား မဟုတ်ပါဘူး။)
-3. **[[grammar/particle-ka|Noun1 は (わ) Noun2 ですか]]** — *Noun1 က Noun2 လား။*
-   - Example (ひらがな): みらーさんは あめりかじんですか。 (မီလာက အမေရိကန်လူမျိုး လား။)
-4. **[[grammar/particle-no|Noun1 の Noun2]]** — *Noun1 ရဲ့ Noun2*
-   - Example (ひらがな): みらーさんは IMCの しゃいんです。 (မီလာက IMC ရဲ့ ဝန်ထမ်း ဖြစ်ပါတယ်။)
+| Hiragana (ひらがな) | Kanji / Kana | Romaji | Burmese (မြန်မာ) | Audio (အသံထွက်) |
+| :--- | :--- | :--- | :--- | :--- |
+| わたし | 私 | watashi | ကျွန်တော် / ကျွန်မ | <button onclick="const u=new SpeechSynthesisUtterance('わたし');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| あなた | あなた | anata | သင် / မင်း | <button onclick="const u=new SpeechSynthesisUtterance('あなた');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| あのかた | あの方 | ano kata | ဟိုလူကြီး (ယဉ်ကျေး) | <button onclick="const u=new SpeechSynthesisUtterance('あのかた');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| 〜さん | 〜さん | -san | ဦး / ဒေါ် / ကို / မ | <button onclick="const u=new SpeechSynthesisUtterance('さん');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| せんせい | 先生 | sensei | ဆရာ / ဆရာမ | <button onclick="const u=new SpeechSynthesisUtterance('せんせい');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| きょうし | 教師 | kyōshi | ဆရာ/ဆရာမ (အလုပ်) | <button onclick="const u=new SpeechSynthesisUtterance('きょうし');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| がくせい | 学生 | gakusei | ကျောင်းသား / ကျောင်းသူ | <button onclick="const u=new SpeechSynthesisUtterance('がくせい');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| かいしゃいん | 会社員 | kaishain | ကုမ္ပဏီဝန်ထမ်း | <button onclick="const u=new SpeechSynthesisUtterance('かいしゃいん');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| ぎんこういん | 銀行員 | ginkōin | ဘဏ်ဝန်ထမ်း | <button onclick="const u=new SpeechSynthesisUtterance('ぎんこういん');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| いしゃ | 医者 | isha | ဆရာဝန် | <button onclick="const u=new SpeechSynthesisUtterance('いしゃ');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| えんじにあ | エンジニア | enjinica | အင်ဂျင်နီယာ | <button onclick="const u=new SpeechSynthesisUtterance('エンジニア');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| だいがく | 大学 | daigaku | တက္ကသိုလ် | <button onclick="const u=new SpeechSynthesisUtterance('だいがく');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| びょういん | 病院 | byōin | ဆေးရုံ | <button onclick="const u=new SpeechSynthesisUtterance('びょういん');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| はじめまして | 初めまして | hajimemashite | တွေ့ရတာ ဝမ်းသာပါတယ် | <button onclick="const u=new SpeechSynthesisUtterance('はじめまして');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
+| よろしくおねがいします | よろしくお願いします | yoroshiku onegaishimasu | ကူညီမစပါဦး | <button onclick="const u=new SpeechSynthesisUtterance('よろしくおねがいします');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button> |
 
 ---
 
@@ -64,10 +42,29 @@
 ### 🗣️ Dialogue: 初めまして (Nice to meet you)
 
 **マイク・ミラー**: 初めまして。マイク・ミラーです。アメリカから 来ました。どうぞ よろしく お願いします。  
-*(မိုက်ကယ် မီလာ: တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ပါ။ အမေရိက က လာခဲ့တာပါ။ ကူညီမစပါဦး။)*
+*(မိုက်ကယ် မီလာ: တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ပါ။ အမေရိက က လာခဲ့တာပါ။ ကူညီမစပါဦး။)*  
+<button onclick="const u=new SpeechSynthesisUtterance('はじめまして。マイクミラーです。アメリカからきました。どうぞよろしくおねがいします。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🔊 Conversation Audio (စကားပြောအသံထွက် နားထောင်ရန်)</button>
 
 **佐藤 (さとう)**: 佐藤です。どうぞ よろしく。  
-*(ဆာတိုး: ဆာတိုး ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။)*
+*(ဆာတိုး: ဆာတိုး ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။)*  
+<button onclick="const u=new SpeechSynthesisUtterance('さとうです。どうぞよろしく。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🔊 Conversation Audio (စကားပြောအသံထွက် နားထောင်ရန်)</button>
+
+---
+
+## 📐 Key Grammar Patterns (သဒ္ဒါ - 文法)
+
+1. **[[grammar/particle-wa|Noun1 は (わ) Noun2 です]]** — *Noun1 က Noun2 ဖြစ်ပါတယ်။*
+   - Example (ひらがな): わたしは まいく・みらーです。 (ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။)  
+     <button onclick="const u=new SpeechSynthesisUtterance('わたしはマイクミラーです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+2. **[[grammar/particle-wa|Noun1 は (わ) Noun2 ではありません (じゃありません)]]** — *Noun1 က Noun2 မဟုတ်ပါဘူး။*
+   - Example (ひらがな): さんとすさんは がくせいではありません。 (စန်းတိုးဆုက ကျောင်းသား မဟုတ်ပါဘူး။)  
+     <button onclick="const u=new SpeechSynthesisUtterance('サントスさんはがくせいではありません');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+3. **[[grammar/particle-ka|Noun1 は (わ) Noun2 ですか]]** — *Noun1 က Noun2 လား။*
+   - Example (ひらがな): みらーさんは あめりかじんですか。 (မီလာက အမေရိကန်လူမျိုး လား။)  
+     <button onclick="const u=new SpeechSynthesisUtterance('ミラーさんはアメリカじんですか');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+4. **[[grammar/particle-no|Noun1 の Noun2]]** — *Noun1 ရဲ့ Noun2*
+   - Example (ひらがな): みらーさんは IMCの しゃいんです。 (မီလာက IMC ရဲ့ ဝန်ထမ်း ဖြစ်ပါတယ်။)  
+     <button onclick="const u=new SpeechSynthesisUtterance('ミラーさんはIMCのしゃいんです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
 
 ---
 
@@ -81,11 +78,6 @@
 2. **[ Pattern 2: 〜ではありません ]**
    - 例: サントス / 会社員 ➔ **サントスさんは 会社員ではありません。**
    - 1) ミラー / 医師 ➔ **ミラーさんは 医師ではありません。** *(မီလာဆန်းက ဆရာဝန် မဟုတ်ပါဘူး။)*
-   - 2) ワット / 学生 ➔ **ワットさんは 学生ではありません。** *(ဝပ်ဆန်းက ကျောင်းသား မဟုတ်ပါဘူး။)*
-
-3. **[ Pattern 3: 〜ですか / 答 ]**
-   - 例: ミラーさん / アメリカ人 ➔ **ミラーさんは アメリカ人ですか。➔ はい、アメリカ人です。**
-   - 1) サントスさん / ブラジル人 ➔ **サントスさんは ブラジル人ですか。➔ はい、ブラジル人です。**
 
 ---
 
@@ -97,20 +89,13 @@
    - **B**: 初めまして。山田です。どうぞ よろしく。  
      *(တွေ့ရတာ ဝမ်းသာပါတယ်။ ရာမာဒါ ပါ။)*
 
-2. **[ Practice Dialogue 2: Asking Occupations ]**
-   - **A**: ミラーさんは 学生ですか。  
-     *(မီလာဆန်းက ကျောင်းသား လား။)*
-   - **B**: いいえ、学生ではありません。会社員です。  
-     *(မဟုတ်ပါဘူး၊ ကျောင်းသား မဟုတ်ပါဘူး။ ကုမ္ပဏီဝန်ထမ်း ဖြစ်ပါတယ်။)*
-
 ---
 
 ## 🎧 Listening Practice (နားထောင်ခြင်းလေ့ကျင့်ခန်း - 聴解)
 
-- **Track 1**: Listen to self-introductions and choose correct answers.
-  - Question 1: ミラーさんは 何歳ですか。(28歳)
-  - Question 2: サントスさんは IMCの 社員ですか。(いいえ、ブラジルエアーの 社員です。)
-  - **Burmese Note**: နားထောင်ပြီး အမည်၊ အသက် နှင့် အလုပ်အကိုင် မှန်မမှန် စစ်ဆေးပါ။
+- **Track 1**: Listen to self-introductions audio script.  
+  <button onclick="const u=new SpeechSynthesisUtterance('はじめまして。わたしはサントスです。ブラジルから来ました。ブラジルエアーのしゃいです。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🎧 Play Listening Track 1 (နားထောင်ရန်)</button>
+  - Question 1: サントスさんは IMCの 社員ですか。(いいえ、ブラジルエアーの 社員です。)
 
 ---
 
@@ -118,7 +103,8 @@
 
 ### 📄 Passage: 私の 自己紹介 (My Self-Introduction)
 
-初めまして。わたしは マイク・ミラーです。28歳です。アメリカ人です。IMCの 会社員です。どうぞ よろしく お願いします。
+初めまして。わたしは マイク・ミラーです。28歳です。アメリカ人です。IMCの 会社員です。どうぞ よろしく お願いします。  
+<button onclick="const u=new SpeechSynthesisUtterance('はじめまして。わたしはマイクミラーです。28さいです。アメリカじんです。IMCのしゃいです。どうぞよろしくお願いします。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">📖 Read Aloud Reading Passage (စာပိုဒ် အသံထွက် နားထောင်ရန်)</button>
 
 **Burmese Translation (မြန်မာဘာသာပြန်)**:  
 တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။ အသက် ၂၈ နှစ် ဖြစ်ပါတယ်။ အမေရိကန်လူမျိုး ဖြစ်ပါတယ်။ IMC ရဲ့ ကုမ္ပဏီဝန်ထမ်း ဖြစ်ပါတယ်။ ကူညီမစပါဦး။
@@ -130,10 +116,6 @@
 1. **[ Fill in the Particle (は / の) ]**
    - わたし ( 1 ) マイク・ミラーです。➔ **は**
    - ミラーさんは IMC ( 2 ) 社員です。➔ **の**
-
-2. **[ Correct the Sentence ]**
-   - Q: サントスさんは 学生ですか。 (No, engineer)
-   - A: **いいえ、学生ではありません。エンジニアです。**
 
 ---
 
