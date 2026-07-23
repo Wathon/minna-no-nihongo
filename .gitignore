@@ -1,0 +1,8 @@
+# MkDocs build directory
+site/
+.venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db

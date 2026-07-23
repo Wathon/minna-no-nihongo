@@ -1,0 +1,32 @@
+name: Publish Japanese Knowledge Base to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install MkDocs & Foam WikiLink Plugins
+        run: |
+          pip install mkdocs-material mkdocs-roamlinks-plugin
+
+      - name: Build and Deploy to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force

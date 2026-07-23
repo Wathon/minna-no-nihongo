@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "foam.foam-vscode",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-notes",
+    "bierner.markdown-preview-github-styles",
+    "eamodio.gitlens",
+    "mshabab.paste-image"
+  ]
+}

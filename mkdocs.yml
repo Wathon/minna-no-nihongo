@@ -1,0 +1,86 @@
+site_name: 🇯🇵 Japanese Knowledge Base — Minna no Nihongo N5 (မြန်မာ)
+site_description: Personal Foam knowledge base for studying Minna no Nihongo N5 and JLPT N5 in Hiragana and Burmese.
+site_author: Wathon
+site_url: https://wathon.github.io/minna-no-nihongo/
+repo_url: https://github.com/Wathon/minna-no-nihongo
+repo_name: Wathon/minna-no-nihongo
+
+theme:
+  name: material
+  palette:
+    # Dark mode default palette
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Light mode palette
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search
+  - roamlinks # Supports [[wiki-links]] automatically across Foam notes!
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.def_fence_mermaid
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - 🏠 Home: README.md
+  - 📘 Textbook Lessons:
+      - Overview Matrix: minna-no-nihongo/index.md
+      - Master Review & Audit: minna-no-nihongo/chapter-review.md
+      - 第1課 Lesson 01: minna-no-nihongo/lesson-01.md
+      - 第2課 Lesson 02: minna-no-nihongo/lesson-02.md
+      - 第3課 Lesson 03: minna-no-nihongo/lesson-03.md
+      - 第4課 Lesson 04: minna-no-nihongo/lesson-04.md
+      - 第5課 Lesson 05: minna-no-nihongo/lesson-05.md
+  - 📐 Grammar Bank:
+      - Master Grammar Index: grammar/index.md
+      - Particle 〜は: grammar/particle-wa.md
+      - Particle 〜か: grammar/particle-ka.md
+      - Particle 〜の: grammar/particle-no.md
+      - Particle 〜へ: grammar/particle-he.md
+      - Particle 〜で: grammar/particle-de.md
+      - Particle 〜に: grammar/particle-ni.md
+      - Verb Conjugations (ます): grammar/verb-masu-form.md
+      - Range Particle (から/まで): grammar/particle-kara-made.md
+  - 🔤 Vocabulary Bank:
+      - Master Vocabulary Index: vocabulary/index.md
+      - Occupations: vocabulary/occupations.md
+      - Demonstratives: vocabulary/demonstratives.md
+      - Places & Stores: vocabulary/places.md
+      - Time & Calendar: vocabulary/time-calendar.md
+  - 🈁 Kanji Bank:
+      - Master Kanji Index: kanji/index.md
+      - Kanji 人 (Person): kanji/kanji-ren.md
+      - Kanji 日 (Sun/Day): kanji/kanji-nichi.md
+  - 🗓️ Study Journal:
+      - 2026-07-23 Log: journal/2026-07-23.md

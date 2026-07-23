@@ -1,0 +1,19 @@
+{
+  "foam.edit.linkReferenceDefinitions": "without-folder-name",
+  "foam.files.ignore": [
+    "**/node_modules/**",
+    "**/.git/**"
+  ],
+  "editor.wordWrap": "on",
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
+  "editor.snippetSuggestions": "top",
+  "markdown.extension.completion.respectVscodeSearchExclude": true,
+  "markdown.extension.toc.orderedList": false,
+  "pasteImage.path": "${currentFileDir}/images",
+  "pasteImage.prefix": "/",
+  "pasteImage.defaultName": "Y-MM-DD-HH-mm-ss"
+}
