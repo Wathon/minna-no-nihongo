@@ -41,30 +41,29 @@
 
 ### 🗣️ Dialogue: 初めまして (Nice to meet you)
 
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-01-kaiwa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 **マイク・ミラー**: 初めまして。マイク・ミラーです。アメリカから 来ました。どうぞ よろしく お願いします。  
-*(မိုက်ကယ် မီလာ: တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ပါ။ အမေရိက က လာခဲ့တာပါ။ ကူညီမစပါဦး။)*  
-<button onclick="const u=new SpeechSynthesisUtterance('はじめまして。マイクミラーです。アメリカからきました。どうぞよろしくおねがいします。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🔊 Conversation Audio (စကားပြောအသံထွက် နားထောင်ရန်)</button>
+*(မိုက်ကယ် မီလာ: တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ပါ။ အမေရိက က လာခဲ့တာပါ။ ကူညီမစပါဦး။)*
 
 **佐藤 (さとう)**: 佐藤です。どうぞ よろしく。  
-*(ဆာတိုး: ဆာတိုး ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။)*  
-<button onclick="const u=new SpeechSynthesisUtterance('さとうです。どうぞよろしく。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🔊 Conversation Audio (စကားပြောအသံထွက် နားထောင်ရန်)</button>
+*(ဆာတိုး: ဆာတိုး ပါ။ တွေ့ရတာ ဝမ်းသာပါတယ်။)*
 
 ---
 
 ## 📐 Key Grammar Patterns (သဒ္ဒါ - 文法)
 
 1. **[[grammar/particle-wa|Noun1 は (わ) Noun2 です]]** — *Noun1 က Noun2 ဖြစ်ပါတယ်။*
-   - Example (ひらがな): わたしは まいく・みらーです。 (ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('わたしはマイクミラーです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): わたしは まいく・みらーです。 (ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။)
 2. **[[grammar/particle-wa|Noun1 は (わ) Noun2 ではありません (じゃありません)]]** — *Noun1 က Noun2 မဟုတ်ပါဘူး။*
-   - Example (ひらがな): さんとすさんは がくせいではありません。 (စန်းတိုးဆုက ကျောင်းသား မဟုတ်ပါဘူး။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('サントスさんはがくせいではありません');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): さんとすさんは がくせいではありません。 (စန်းတိုးဆုက ကျောင်းသား မဟုတ်ပါဘူး။)
 3. **[[grammar/particle-ka|Noun1 は (わ) Noun2 ですか]]** — *Noun1 က Noun2 လား။*
-   - Example (ひらがな): みらーさんは あめりかじんですか。 (မီလာက အမေရိကန်လူမျိုး လား။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('ミラーさんはアメリカじんですか');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): みらーさんは あめりかじんですか。 (မီလာက အမေရိကန်လူမျိုး လား။)
 4. **[[grammar/particle-no|Noun1 の Noun2]]** — *Noun1 ရဲ့ Noun2*
-   - Example (ひらがな): みらーさんは IMCの しゃいんです。 (မီလာက IMC ရဲ့ ဝန်ထမ်း ဖြစ်ပါတယ်။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('ミラーさんはIMCのしゃいんです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): みらーさんは IMCの しゃいんです。 (မီလာက IMC ရဲ့ ဝန်ထမ်း ဖြစ်ပါတယ်။)
 
 ---
 
@@ -93,9 +92,20 @@
 
 ## 🎧 Listening Practice (နားထောင်ခြင်းလေ့ကျင့်ခန်း - 聴解)
 
-- **Track 1**: Listen to self-introductions audio script.  
-  <button onclick="const u=new SpeechSynthesisUtterance('はじめまして。わたしはサントスです。ブラジルから来ました。ブラジルエアーのしゃいです。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🎧 Play Listening Track 1 (နားထောင်ရန်)</button>
-  - Question 1: サントスさんは IMCの 社員ですか。(いいえ、ブラジルエアーの 社員です。)
+### 🎵 Official Minna no Nihongo CD Audio Player (聴解 Official Track 1)
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-01-track-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+- **Audio Script & Questions (အသံဖိုင် စာသား နှင့် မေးခွန်းများ)**:
+  1. 初めまして。わたしは サントスです。ブラジルから 来ました。ブラジルエアーの 社員です。どうぞ よろしく。  
+     - Q1: サントスさんは IMCの 社員ですか。 (いいえ、ブラジルエアーの 社員です。)  
+     *(စန်းတိုးဆုက IMC ရဲ့ ဝန်ထမ်း လား။ -> မဟုတ်ပါဘူး၊ ဘရာဇီးအေးယား ရဲ့ ဝန်ထမ်း ဖြစ်ပါတယ်။)*
+  2. マイク・ミラーさんは アメリカ人です。IMCの 社員です。28歳です。  
+     - Q2: ミラーさんは 何歳ですか。 (28歳です。)  
+     *(မီလာဆန်းက အသက် ဘယ်လောက်လဲ။ -> ၂၈ နှစ် ဖြစ်ပါတယ်။)*
 
 ---
 
@@ -103,8 +113,7 @@
 
 ### 📄 Passage: 私の 自己紹介 (My Self-Introduction)
 
-初めまして。わたしは マイク・ミラーです。28歳です。アメリカ人です。IMCの 会社員です。どうぞ よろしく お願いします。  
-<button onclick="const u=new SpeechSynthesisUtterance('はじめまして。わたしはマイクミラーです。28さいです。アメリカじんです。IMCのしゃいです。どうぞよろしくお願いします。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">📖 Read Aloud Reading Passage (စာပိုဒ် အသံထွက် နားထောင်ရန်)</button>
+初めまして。わたしは マイク・ミラーです。28歳です。アメリカ人です。IMCの 会社員です。どうぞ よろしく お願いします。
 
 **Burmese Translation (မြန်မာဘာသာပြန်)**:  
 တွေ့ရတာ ဝမ်းသာပါတယ်။ ကျွန်တော်က မိုက်ကယ် မီလာ ဖြစ်ပါတယ်။ အသက် ၂၈ နှစ် ဖြစ်ပါတယ်။ အမေရိကန်လူမျိုး ဖြစ်ပါတယ်။ IMC ရဲ့ ကုမ္ပဏီဝန်ထမ်း ဖြစ်ပါတယ်။ ကူညီမစပါဦး။

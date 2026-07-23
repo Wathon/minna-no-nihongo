@@ -43,6 +43,11 @@
 
 ### 🗣️ Dialogue: これから お世話に なります (Pleasure working with you)
 
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-02-kaiwa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 **サントス**: はい。どなたですか。  
 *(စန်းတိုးဆု: ဟုတ်ကဲ့။ ဘယ်သူပါလဲ။)*  
 
@@ -58,18 +63,14 @@
 **サントス**: どうも ありがとう ございます。  
 *(စန်းတိုးဆု: ကျေးဇူးအများကြီး တင်ပါတယ်။)*  
 
-<button onclick="const u=new SpeechSynthesisUtterance('はい。どなたですか。401のミラーです。これからおせわになります。どうぞよろしくお願いします。こちらこそよろしくお願いします。あのう、これ、ほんのきもちです。コーヒーです。どうぞ。どうもありがとうございます。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:6px 14px;cursor:pointer;">🔊 Conversation Audio (စကားပြော အသံထွက် နားထောင်ရန်)</button>
-
 ---
 
 ## 📐 Key Grammar Patterns (သဒ္ဒါ - 文法)
 
 1. **これ / それ / あれ は Noun です** — *ဒါ / အဲဒါ / ဟိုဒါ က Noun ဖြစ်ပါတယ်။*
-   - Example (ひらがな): これはおみやげです。 (ဒါက လက်ဆောင် ဖြစ်ပါတယ်။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('これはおみやげです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): これはおみやげです。 (ဒါက လက်ဆောင် ဖြစ်ပါတယ်။)
 2. **この / その / あの Noun は〜です** — *ဒီ / အဲဒီ / ဟို Noun က ~ ဖြစ်ပါတယ်။*
-   - Example (ひらがな): このほんはわたしのです。 (ဒီစာအုပ်က ကျွန်တော့်ဟာ ဖြစ်ပါတယ်။)  
-     <button onclick="const u=new SpeechSynthesisUtterance('このほんはわたしのです');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:2px 8px;cursor:pointer;">🔊 Listen</button>
+   - Example (ひらがな): このほんはわたしのです。 (ဒီစာအုပ်က ကျွန်တော့်ဟာ ဖြစ်ပါတယ်။)
 
 ---
 
@@ -88,16 +89,24 @@
    - **A**: すみません。その傘は あなたのですか。  
      *(တစ်ဆိတ်လောက်။ အဲဒီထီးက မင်းရဲ့ဟာ လား။)*
    - **B**: いいえ、違います。ミラーさんのです。  
-     *(မဟုတ်ပါဘူး၊ မဟုတ်ပါဘူး။ မီလာဆန်းရဲ့ဟာ ပါ။)*  
-     <button onclick="const u=new SpeechSynthesisUtterance('すみません。そのかさはあなたのですか。いいえ、ちがいます。ミラーさんのです。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🔊 Listen Practice Dialogue C</button>
+     *(မဟုတ်ပါဘူး၊ မဟုတ်ပါဘူး။ မီလာဆန်းရဲ့ဟာ ပါ။)*
 
 ---
 
 ## 🎧 Listening Practice (နားထောင်ခြင်းလေ့ကျင့်ခန်း - 聴解)
 
-- **Track 2**: Audio script practice.  
-  <button onclick="const u=new SpeechSynthesisUtterance('これはさとうさんのカバンです。カバンのなかにほんとじしょがあります。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🎧 Play Track 2 Audio (နားထောင်ရန်)</button>
-  - Question 1: これは 誰のカバンですか。(佐藤さんのカバンです)
+### 🎵 Official Minna no Nihongo CD Audio Player (聴解 Official Track 1)
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-02-track-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+- **Audio Script & Questions (အသံဖိုင် စာသား နှင့် မေးခွန်းများ)**:
+  - Q1: これは 誰のカバンですか。 (佐藤さんのカバンです。)  
+    *(ဒါက ဘယ်သူ့အိတ်လဲ။ -> ဆာတိုးဆန်းရဲ့ အိတ် ဖြစ်ပါတယ်။)*
+  - Q2: その鍵は 何の鍵ですか。 (自動車の鍵です。)  
+    *(အဲဒီသော့က ဘာသော့လဲ။ -> ကားသော့ ဖြစ်ပါတယ်။)*
 
 ---
 
@@ -105,8 +114,7 @@
 
 ### 📄 Passage: ミラーさんの カバン (Mr. Miller's Bag)
 
-これは ミラーさんの カバンです。カバンの 中に 本と 辞書が あります。この本は コンピューターの 本です。鍵は 自動車の 鍵です。  
-<button onclick="const u=new SpeechSynthesisUtterance('これはミラーさんのカバンです。カバンのなかにほんとじしょがあります。このほんはコンピューターのほんです。かぎはじどうしゃのかぎです。');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">📖 Read Aloud Reading Passage (စာပိုဒ် အသံထွက် နားထောင်ရန်)</button>
+これは ミラーさんの カバンです。カバンの 中に 本と 辞書が あります。この本は コンピューターの 本です。鍵は 自動車の 鍵です。
 
 **Burmese Translation (မြန်မာဘာသာပြန်)**:  
 ဒါက မီလာဆန်းရဲ့ အိတ် ဖြစ်ပါတယ်။ အိတ်ထဲမှာ စာအုပ် နှင့် အဘိဓာန် ရှိပါတယ်။ ဒီစာအုပ်က ကွန်ပျူတာ အကြောင်း စာအုပ် ဖြစ်ပါတယ်။ သော့က ကားသော့ ဖြစ်ပါတယ်။

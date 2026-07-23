@@ -32,13 +32,17 @@
 ## 💬 Kaiwa (စကားပြော - 会話)
 
 ### 🗣️ Dialogue: [Title]
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-${TM_FILENAME_BASE}-kaiwa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 **Person A**: 
 *(Burmese translation)*
 
 **Person B**: 
 *(Burmese translation)*
-
-<button onclick="const u=new SpeechSynthesisUtterance('Japanese conversation text');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:6px 14px;cursor:pointer;">🔊 Conversation Audio (စကားပြော အသံထွက် နားထောင်ရန်)</button>
 
 ---
 
@@ -60,16 +64,22 @@
 
 ## 🎧 Listening Practice (နားထောင်ခြင်းလေ့ကျင့်ခန်း - 聴解)
 
-- **Track 1**: Questions & Audio Script  
-  <button onclick="const u=new SpeechSynthesisUtterance('Japanese listening text');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">🎧 Play Listening Track 1 (နားထောင်ရန်)</button>
+### 🎵 Official Minna no Nihongo CD Audio Player (聴解 Official Track 1)
+
+<audio controls style="width: 100%; max-width: 500px; margin: 10px 0;">
+  <source src="../audio/lesson-${TM_FILENAME_BASE}-track-01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+- **Audio Script & Questions (အသံဖိုင် စာသား နှင့် မေးခွန်းများ)**:
+  - Question 1: 
 
 ---
 
 ## 📖 Reading Practice (စာဖတ်ခြင်းလေ့ကျင့်ခန်း - 読解)
 
 ### 📄 Passage Title: [Title]
-[Short Japanese Reading Passage in Hiragana & Kanji]  
-<button onclick="const u=new SpeechSynthesisUtterance('Japanese reading text');u.lang='ja-JP';speechSynthesis.speak(u);" style="background:#4f46e5;color:white;border:none;border-radius:4px;padding:4px 12px;cursor:pointer;">📖 Read Aloud Reading Passage (စာပိုဒ် အသံထွက် နားထောင်ရန်)</button>
+[Short Japanese Reading Passage in Hiragana & Kanji]
 
 **Burmese Translation**:
 [မြန်မာဘာသာပြန်ဆိုချက်]
